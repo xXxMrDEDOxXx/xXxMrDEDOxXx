@@ -1,4 +1,3 @@
-## Hi there 👋
-
-- 🌱 I’m currently learning on Machine learning and Deep learning
+-  alt account
+-  AI, machine learning, Deep learning, RAG, Rubric review work: Please contact siraphop.sittiwong@gmail.com.
 
