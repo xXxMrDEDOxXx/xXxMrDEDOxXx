@@ -1,22 +1,24 @@
-# Hi, I'm Siraphop Sittiwong
+# Hi, I'm Khunin
 
-Robotics engineering student at FIBO (Institute of Field Robotics), KMUTT, Thailand.
-I work mainly in **C++** and **Python**, across embedded systems, robotics, and applied AI.
+(Siraphop Sittiwong on paper.) I'm a third-year robotics student at FIBO, KMUTT in Bangkok. I like owning a robot from start to finish: drawing the parts in SolidWorks, wiring the board, writing the firmware, and then poking at it until it behaves.
 
-## What I do
+I've been writing C++ since 2016 and Python since 2021. I also TA the intro programming and OOP classes at FIBO, which mostly means writing tricky exam problems and grading a lot of code.
 
-- **Teaching Assistant, FIBO KMUTT (since Jul 2025)** for Introductory Programming (Python, C++) and Object-Oriented Programming (C++). I design exam problems with reference solutions and test cases, and grade students' code.
-- **Embedded systems:** STM32 (Nucleo G474RE), ESP32
-- **Robotics:** kinematics (DH parameters, forward and inverse kinematics), control systems, Kalman filtering
-- **AI:** local LLMs with Ollama, RAG, rubric-based review and evaluation of AI outputs
-- **CAD and fabrication:** SolidWorks, laser cutting, CNC
+**Lately**
 
-## Featured project
+- Working out the leg kinematics for a six-legged robot in my Physical AI class
+- Doing some AI training work on the side, mostly Thai voice and language evaluation
 
-**LASSO, AI triage kiosk** ([repo](https://github.com/puthding/medibotix))
-An offline kiosk that interviews outpatients in Thai by voice using a local LLM, estimates risk with a decision-tree model, and prints a QR summary for the doctor. I assembled and integrated the ESP32-based hardware, designed the enclosure in SolidWorks, and tested the system with real users.
-Top 21 of 537 teams, KU MedAI Innovation Challenge 2026.
+**Stuff I've built**
 
-## Contact
+- **[LASSO](https://github.com/puthding/medibotix)**: an offline kiosk that chats with patients in Thai, scores their risk, and prints a QR summary for the doctor. I made it with a med student teammate, and we ended up in the top 21 of 537 teams at the KU MedAI Innovation Challenge 2026.
+- **Hexapod legs**: the DH table, forward and inverse kinematics, and a Python IK solver that I keep honest with round-trip tests.
+- **A one-axis pick-and-place robot**: cascade PID with a Kalman filter on an STM32.
 
-Open to software engineering, AI evaluation, and rubric review work: **siraphop.sittiwong@gmail.com**
+**Tools I reach for**
+
+C++, Python, ROS 2, STM32, ESP32, SolidWorks, MATLAB, Git
+
+**Say hi**
+
+siraphop.sittiwong@gmail.com · [LinkedIn](https://www.linkedin.com/in/siraphop-sittiwong-a22777443)
