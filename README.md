@@ -1,4 +1,4 @@
-# Hi, I'm SIraphop Sittiwong
+# Hi, I'm Siraphop Sittiwong
 
 I'm a third-year robotics student at FIBO, KMUTT in Bangkok. I like owning a robot from start to finish: drawing the parts in SolidWorks, wiring the board, writing the firmware, and then poking at it until it behaves.
 
