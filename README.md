@@ -2,8 +2,6 @@
 
 I'm a third-year robotics student at FIBO, KMUTT in Bangkok. I like owning a robot from start to finish: drawing the parts in SolidWorks, wiring the board, writing the firmware, and then poking at it until it behaves.
 
-I've been writing C++ since 2016 and Python since 2021. I also TA the intro programming and OOP classes at FIBO, which mostly means writing tricky exam problems and grading a lot of code.
-
 **Lately**
 
 - Working out the leg kinematics for a six-legged robot in my Physical AI class
